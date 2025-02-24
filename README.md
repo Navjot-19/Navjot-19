@@ -1,4 +1,4 @@
-##Hi, I'm Navjot, a physics graduate.
+## Hi, I'm Navjot, a physics graduate.
 
 I'm currently exploring Machine learning Algorithms for applications in particle physics.
 
